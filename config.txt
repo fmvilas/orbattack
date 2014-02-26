@@ -1,0 +1,13 @@
+energia_bolas_verdes	500
+num_bolas_rojas		7
+intervalo_rojas		3
+intervalo_azules	6
+num_bolas_negras	3
+intervalo_negras	6
+bolas_verdes_pequeñas	2
+puntuacion_t1_roja	100
+puntuacion_t2_roja	120
+puntuacion_t3_roja	140
+puntuacion_t4_roja	160
+puntuacion_bola_negra	200
+quita_energia_roja	25
